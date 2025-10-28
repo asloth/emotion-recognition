@@ -3,9 +3,6 @@
 This repository contains a Jupyter/Colab notebook implementing a neural network for emotion detection from facial images:
 drive/MyDrive/Universidad/Tesis/NN-EmotionDetection.ipynb
 
-Notebook permalink:
-https://github.com/asloth/emotion-recognition/blob/af9001fd48a91fb222064c4872c907d886642ceb/drive/MyDrive/Universidad/Tesis/NN-EmotionDetection.ipynb
-
 ## Overview
 
 The NN-EmotionDetection notebook demonstrates an end-to-end workflow for building, training, evaluating, and exporting a neural network that detects emotions from images. Typical steps included in the notebook:
@@ -75,4 +72,4 @@ pip install -U numpy pandas matplotlib scikit-learn tensorflow opencv-python pil
 ## Attribution / Contact
 
 Created by: asloth  
-Notebook location: drive/MyDrive/Universidad/Tesis/NN-EmotionDetection.ipynb
+Notebook location: NN-EmotionDetection.ipynb
